@@ -13,3 +13,7 @@
 ## 🏆 Trofi GitHub
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=YoungMolly&theme=darkhub)
+
+## 📈 Metrics
+
+![Metrics](https://github.com/YoungMolly/YoungMolly/blob/main/github-metrics.svg)
