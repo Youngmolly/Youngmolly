@@ -14,3 +14,5 @@ Sedang fokus pada pengembangan <b>Game Sigma</b> dan optimasi database <b>MariaD
 
 ```sh
 root@youngmolly: ~/Development (main)$ neofetch
+
+ChatGPT	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
