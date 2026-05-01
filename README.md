@@ -1,19 +1,24 @@
-# Halo, saya YoungMolly! 👋
+# 👋 Halo, saya YoungMolly!
 
-## 📊 Statistik GitHub Saya
+## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoungMolly&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungMolly&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoungMolly&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMolly&layout=compact&theme=radical" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMolly&layout=compact&theme=dark)
+## 🏆 Trofi
 
-## 🔥 Statistik Harian
+![trophy](https://github-profile-trophy.vercel.app/?username=YoungMolly&theme=radical&no-frame=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoungMolly&theme=dark)
+## 📈 Aktivitas Terbaru
 
-## 🏆 Trofi GitHub
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YoungMolly&theme=darkhub)
+## 📫 Kontak
 
-## 📈 Metrics
-
-![Metrics](https://github.com/YoungMolly/YoungMolly/blob/main/github-metrics.svg)
+- GitHub: [@YoungMolly](https://github.com/YoungMolly)
