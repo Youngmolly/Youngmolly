@@ -1,8 +1,15 @@
+# Halo, saya YoungMolly! 👋
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub Saya
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoungMolly&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoungMolly&show_icons=true&theme=dark&count_private=true)
 
-## 📫 Contact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMolly&layout=compact&theme=dark)
 
-- GitHub: [YoungMolly](https://github.com/YoungMolly)
+## 🔥 Statistik Harian
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoungMolly&theme=dark)
+
+## 🏆 Trofi GitHub
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YoungMolly&theme=darkhub)
