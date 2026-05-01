@@ -1,48 +1,20 @@
-# 👋 Halo, saya YoungMolly!
-
-## 🚀 Tentang Saya
-- 🔭 Sedang mengerjakan: Game Sigma
-- 🌱 Belajar: Git, Python, Ren'Py
-- 💬 Tanya saya tentang: Game development, Anime
-- 📫 Hubungi: [GitHub](https://github.com/YoungMolly)
-
-## 📊 Statistik GitHub (Alternatif Stabil)
+## 📊 Statistik GitHub
 
 <div align="center">
 
-### 📈 Aktivitas Terkini
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=YoungMolly&theme=github)
+### 👥 Pengikut & Repo
+![Followers](https://img.shields.io/github/followers/YoungMolly?style=for-the-badge&logo=github)
+![Repos Badge](https://img.shields.io/badge/Repos-1-blue?style=for-the-badge&logo=github)
 
-### 🔥 Kontribusi Harian
-![GitHub Streak](https://streak-stats.demolab.com?user=YoungMolly&theme=github-dark-blue)
+### 🔥 Kontribusi Harian (Paling Stabil)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YoungMolly&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### 📚 Bahasa yang Digunakan
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMolly&layout=compact&theme=github_dark)
+### 📈 Statistik Umum (Cadangan)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungMolly&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
 
-### 🏆 Pencapaian
-![Trophy](https://github-profile-trophy.vercel.app/?username=YoungMolly&theme=darkhub&no-frame=true&row=2&column=4)
+### 📚 Bahasa yang Digunakan (Jika Muncul)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMolly&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Top Langs" />
 
 </div>
 
-## 📈 Statistik GitHub (Cadangan - Pakai Metrics)
-
-Jika statistik di atas tidak muncul, gunakan Metrics:
-
-![Metrics](https://github.com/YoungMolly/YoungMolly/blob/main/github-metrics.svg)
-
-## 🛠️ Tools & Tech
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/-Ren'Py-FFB300?logo=renpy&logoColor=black)
-
-## 📫 Social
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/YoungMolly)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/youngmolly)
-
----
-
-### 📝 Catatan
-Statistik diperbarui otomatis setiap jam. Jika gambar tidak muncul, refresh halaman atau tunggu 5 menit.
+> **Catatan:** Jika gambar statistik di atas masih belum muncul, itu karena layanan gratis sedang sibuk. **Refresh halaman** atau tunggu beberapa menit. Gambar akan muncul secara otomatis.
