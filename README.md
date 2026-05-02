@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm [GANTI_USERNAME_KAMU]</h1>
+<h1 align="center">Hi there 👋, I'm Faris </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GANTI_USERNAME_KAMU]&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Youngmolly&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ## 🚀 Quick Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[GANTI_USERNAME_KAMU]&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GANTI_USERNAME_KAMU]&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youngmolly&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmolly&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[GANTI_USERNAME_KAMU]&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Youngmolly&theme=dark" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[GANTI_USERNAME_KAMU]&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Youngmolly&theme=darkhub" />
 </p>
 
 ---
