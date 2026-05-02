@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 */6 * * *"}] # tiap 6 jam (lebih realistis)
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
   push: {branches: ["main", "master"]}
 
@@ -17,75 +17,36 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: YoungMolly
 
-          # 🎨 Tampilan utama
+          # 🧩 Base
           template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          base: header, activity, community, repositories, metadata
+          # 📅 Contribution graph (WAJIB)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          # 🧠 Achievements (badge style)
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
+          # 📈 Activity (commit, PR, issue)
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
 
-          # 📊 Coding habits
+          # 🔥 Coding habits (grafik waktu coding)
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts_type: classic
 
-          # 📅 Contribution calendar (keren)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # 💻 Bahasa pemrograman
+          # 💻 Languages
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_colors: github
+          plugin_languages_limit: 6
 
-          # ⭐ Stars repo
+          # ⭐ Stars
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          # 🌆 Skyline (ini bikin beda)
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
+          # 🧠 Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
 
-          # 📈 Activity chart (visual graph)
-          plugin_activity: yes
-          plugin_activity_limit: 5
-
-          # 🔥 Streak
+          # 🔄 Follow-up stats
           plugin_followup: yes
-
-          # 🧾 Repos highlights
-          plugin_repositories: yes
-          plugin_repositories_featured: yes
-
-          # ⚡ Random quote (biar hidup)
-          plugin_notable: yes
-
-          # 📅 Contribution heatmap (ini yang lo cari)
-plugin_isocalendar: yes
-plugin_isocalendar_duration: full-year
-
-# 📈 Activity (commit, PR, issue)
-plugin_activity: yes
-plugin_activity_limit: 10
-plugin_activity_days: 14
-plugin_activity_filter: all
-
-# 🔥 Coding habits (jam coding dll)
-plugin_habits: yes
-plugin_habits_days: 14
-plugin_habits_facts: yes
-plugin_habits_charts_type: classic
-
-# 📊 Contribution stats lebih detail
-plugin_followup: yes
-plugin_followup_sections: repositories, user
-
-# ⭐ Tambahan biar lebih visual
-plugin_stars: yes
-plugin_stars_limit: 4
