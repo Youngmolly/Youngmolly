@@ -16,7 +16,7 @@
 ### 📊 Full Stats (Generated Automatically)
 
 <p align="center">
-  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics Full" />
+  <img src="github-metrics.svg" width="50%" alt="GitHub Metrics Full" />
 </p>
 
 ---
