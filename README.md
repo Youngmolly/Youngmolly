@@ -58,3 +58,8 @@
     <img src="https://ytcards.demolab.com/?id=vZgF2LunkGU&&title=Another+Video&lang=en&timestamp=March+2026&background_color=%230d1117&title_color=%23FF4500&stats_color=%23FF4500&max_width=400" width="45%" />
   </a>
 </p>
+
+### Wakatime
+<p align="center">
+  <img src="https://github.com/Youngmolly/Youngmolly/blob/master/images/wakatime.svg" alt="WakaTime Stats" width="90%" />
+</p>
