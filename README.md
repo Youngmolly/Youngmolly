@@ -1,8 +1,8 @@
 ### 📊 Full Stats (Akurat & Real-Time)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.one/api?username=Youngmolly&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=FF4500&icon_color=00FF00" />
-  <img width="48%" src="https://github-readme-stats.vercel.one/api/top-langs/?username=Youngmolly&layout=compact&theme=radical&hide_border=true&langs_count=12&bg_color=00000000&title_color=FF4500" />
+<<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.one/api?username=Youngmolly&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.one/api/top-langs/?username=Youngmolly&layout=compact&theme=radical" />
 </p>
 
 ---
