@@ -1,8 +1,8 @@
 ### 📊 Full Stats (Akurat & Real-Time)
 
-<<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.one/api?username=Youngmolly&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.one/api/top-langs/?username=Youngmolly&layout=compact&theme=radical" />
+<p align="center">
+  <img width="48%" src="https://stats.dooboo.io/api/stats?username=Youngmolly&theme=radical" />
+  <img width="48%" src="https://stats.dooboo.io/api/top-langs?username=Youngmolly&theme=radical" />
 </p>
 
 ---
