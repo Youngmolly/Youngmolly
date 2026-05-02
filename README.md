@@ -44,3 +44,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoungMolly&theme=tokyonight" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YoungMolly/YoungMolly/output/github-contribution-grid-snake.svg" />
+</p>
