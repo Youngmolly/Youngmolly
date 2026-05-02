@@ -21,15 +21,6 @@
 
 ---
 
-### 🧩 Quick Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youngmolly&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmolly&layout=compact&theme=radical&langs_count=12" />
-</p>
-
----
-
 ### 🔥 Streak & Trophies
 
 <p align="center">
