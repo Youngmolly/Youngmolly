@@ -47,3 +47,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,git,html,css,githubactions&theme=dark&perline=6" />
 </p>
+
+### 🚀 Latest YouTube Videos (Jika Punya Channel)
+
+<p align="center">
+  <a href="https://youtube.com/@YoungMolly">
+    <img src="https://ytcards.demolab.com/?id=ZjODWsHFo5Y&&title=Video+Title&lang=en&timestamp=April+2026&background_color=%230d1117&title_color=%23FF4500&stats_color=%23FF4500&max_width=400" width="45%" />
+  </a>
+  <a href="https://youtube.com/@YoungMolly">
+    <img src="https://ytcards.demolab.com/?id=ZjODWsHFo5Y&&title=Another+Video&lang=en&timestamp=March+2026&background_color=%230d1117&title_color=%23FF4500&stats_color=%23FF4500&max_width=400" width="45%" />
+  </a>
+</p>
