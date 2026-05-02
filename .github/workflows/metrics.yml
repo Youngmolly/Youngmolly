@@ -65,3 +65,27 @@ jobs:
 
           # ⚡ Random quote (biar hidup)
           plugin_notable: yes
+
+          # 📅 Contribution heatmap (ini yang lo cari)
+plugin_isocalendar: yes
+plugin_isocalendar_duration: full-year
+
+# 📈 Activity (commit, PR, issue)
+plugin_activity: yes
+plugin_activity_limit: 10
+plugin_activity_days: 14
+plugin_activity_filter: all
+
+# 🔥 Coding habits (jam coding dll)
+plugin_habits: yes
+plugin_habits_days: 14
+plugin_habits_facts: yes
+plugin_habits_charts_type: classic
+
+# 📊 Contribution stats lebih detail
+plugin_followup: yes
+plugin_followup_sections: repositories, user
+
+# ⭐ Tambahan biar lebih visual
+plugin_stars: yes
+plugin_stars_limit: 4
