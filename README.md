@@ -37,6 +37,7 @@
 
 ### 👁️ Visitor Counter (Akurat & Pasti Update)
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=PROFILE+VIEWS&color=ff4500&style=for-the-badge&base=10000" />
+  <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
