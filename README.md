@@ -1,19 +1,12 @@
 ### 📊 Full Stats (Akurat & Real-Time)
 
 <p align="center">
-  <!-- Ini pake Profile Summary Cards (STABIL) -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youngmolly&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youngmolly&theme=radical" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youngmolly&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youngmolly&theme=radical&utcOffset=7" />
-</p>
-
-<!-- Backup pake Metrics (udah pasti muncul di repo lo) -->
-<p align="center">
-  <img src="github-metrics.svg" width="95%" alt="GitHub Metrics Full" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youngmolly&theme=radical" />
 </p>
 
 ---
