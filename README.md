@@ -1,44 +1,57 @@
-<h1 align="center">Hi there 👋, I'm Faris </h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youngmolly&color=blue" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=YoungMolly;GitHub+Automation+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 👋 About Me
+
+- 🔭 Currently working on **self-hosted tools & GitHub automation**
+- 🌱 Learning **Go & Rust**
+- 💬 Ask me about **GitHub Actions, Metrics, and CI/CD**
+- ⚡ Fun fact: My profile runs entirely on workflows 🚀
+
+---
+
+### 📊 Full Stats (Generated Automatically)
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics Full" />
 </p>
 
 ---
 
-## 🚀 Quick Stats
+### 🧩 Quick Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youngmolly&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmolly&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youngmolly&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmolly&layout=compact&theme=radical&langs_count=12" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+### 🔥 Streak & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Youngmolly&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Youngmolly&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youngmolly&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 🏆 Trophies
+### 🕺 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youngmolly&theme=darkhub" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
+### 👁️ Profile Views
+
 <p align="center">
-  <i>Made with ❤️ using GitHub Actions & Metrics</i>
+  <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
