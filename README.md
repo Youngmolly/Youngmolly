@@ -42,8 +42,6 @@
   <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-### ⏳ Wakatime Stats (Coding Activity)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YoungMolly&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF4500&range=last_30_days" width="70%" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,react,nodejs,aws,docker,kubernetes,git,githubactions&theme=dark&perline=6" />
 </p>
