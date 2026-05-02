@@ -42,6 +42,8 @@
   <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,react,nodejs,aws,docker,kubernetes,git,githubactions&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,git,html,cssgithubactions&theme=dark&perline=6" />
 </p>
