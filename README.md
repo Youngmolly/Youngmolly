@@ -1,54 +1,36 @@
-# Hi 👋, I'm YourName
+<h1 align="center">Hi 👋, I'm YoungMolly</h1>
 
-## 🚀 About Me
-
-* 🔭 I’m currently working on something cool
-* 🌱 I’m learning new things everyday
-* ⚡ Fun fact: I love coffee ☕
+<p align="center">
+  🚀 Fullstack Developer | 🧠 Tech Enthusiast | 🔐 Privacy Advocate
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-## 📈 Top Languages
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-## 🔥 Streak Stats
-
-![streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📊 Commit Graph
-
-![commit-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 🏆 Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&margin-w=10)
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
 
 ---
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+- 💻 Backend: Laravel, PHP
+- 🌐 Frontend: HTML, CSS, JS
+- 🛢 Database: MySQL, PostgreSQL
+- ⚙️ Tools: Docker, Git, Linux
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 Current Focus
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square\&logo=instagram)](https://instagram.com/YOUR_USERNAME)
+- 🚀 Building SaaS & API products
+- 🔐 Self-hosted infrastructure
+- 🌍 Privacy-first systems
 
 ---
 
-## 👀 Visitor Count
+## 📫 Connect
 
-![visitor](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet)
+- Email: tugas.sttwastu@gmail.com
