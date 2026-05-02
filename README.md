@@ -42,13 +42,8 @@
   <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-### 📕 Blog & Artikel Terbaru
+### ⏳ Wakatime Stats (Coding Activity)
 
 <p align="center">
-  <a href="https://dev.to/youngmolly">
-    <img src="https://dev-to-readme-stats.vercel.app/api?username=youngmolly&theme=radical&show_icons=true&hide_border=true&count_private=true" width="400" />
-  </a>
-  <a href="https://hashnode.com/@youngmolly">
-    <img src="https://hashnode-blog-stats.vercel.app/api?username=youngmolly&theme=radical&hide_border=true" width="400" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YoungMolly&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF4500&range=last_30_days" width="70%" />
 </p>
