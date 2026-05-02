@@ -1,40 +1,49 @@
-## 👋 Hei, saya [Nama Kamu]!
+# 👋 Halo, saya [Nama Kamu]
 
-💻 **Sedang sibuk ngoding + rebahan**  
-🌱 Lagi belajar hal-hal yang (mungkin) gak bakal kelar-kelar  
-📍 [Kota/Kampus Kamu]
-
----
-
-### 📊 Seberapa gak jelas aktivitas saya di GitHub?
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namausernamekamu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff4d4d)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namausernamekamu&theme=radical&hide_border=true&background=0d1117&ring=ff4d4d&fire=ff4d4d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namausernamekamu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+💻 **Status sekarang:** Ngoding sambil cari informasi adek/kakak yang gak masuk kampus 😄  
+📌 [Universitas / Kota]
 
 ---
 
-### 📈 Grafik "Kok Bisa Commit Banyak?"
+## 📊 Statistik yang gak bohong
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namausernamekamu&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=ff4d4d&line=ff4d4d&point=ffffff)
+<!-- Github Stats - tanpa token, langsung tampil -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=namausernamekamu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namausernamekamu&theme=radical&hide_border=true&background=0d1117" width="48%" />
+</p>
 
----
-
-### 🎯 Status Terkini
-- 🔥 Lagi asyik ngerjain: [Nama project, misal: skripsi or side project]
-- 🤯 Udah [X] hari gak masuk kampus, tapi tetap commit tiap malem
-- 🧠 Lagi belajar: React, Tailwind, atau biar keliatan keren diganti Python + AI
-
----
-
-### 📫 Mau ngobrol atau nyari info tentang saya?
-- Ig: [@igkamu](https://instagram.com/igkamu)
-- Grup kampus: [link grup]
-- Atau chat aja, saya gak gigit (kecuali lagi lapar)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namausernamekamu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
 
 ---
 
-> *"Makin jarang masuk kampus, makin sering commit ke GitHub."*  
-> — kutipan yang baru saja saya buat sendiri
+## 📈 Grafik aktivitas (stabil, tanpa token)
+
+<!-- Activity Graph - sumber terpercaya -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namausernamekamu&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=ff4d4d&line=ff4d4d&point=ffffff" />
+
+---
+
+## 🧠 Metrics dengan token (wajib pakai GitHub Action)
+
+<!-- 
+Untuk bagian ini, buat file .github/workflows/metrics.yml
+Token cukup disimpan di secrets.GITHUB_TOKEN (otomatis ada)
+Tidak akan error karena punya token bawaan action.
+-->
+
+<img src="https://raw.githubusercontent.com/namausernamekamu/namausernamekamu/main/github-metrics.svg" />
+
+---
+
+## 🎯 Sekarang ini saya sedang:
+
+- 🔍 Nyari info saudara di grup kampus
+- 💻 Ngerjain project yang gak jelas batas selesainya
+- ☕ Minum kopi lebih banyak dari commit
+
+---
+
+> *"Kalau gak masuk kampus jangan lupa commit, biar grafiknya kelihatan sibuk."*
