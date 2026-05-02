@@ -42,8 +42,13 @@
   <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-### 🎵 Now Playing (Spotify)
+### 📕 Blog & Artikel Terbaru
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=youngmolly&width=500" alt="Spotify recently played" />
+  <a href="https://dev.to/youngmolly">
+    <img src="https://dev-to-readme-stats.vercel.app/api?username=youngmolly&theme=radical&show_icons=true&hide_border=true&count_private=true" width="400" />
+  </a>
+  <a href="https://hashnode.com/@youngmolly">
+    <img src="https://hashnode-blog-stats.vercel.app/api?username=youngmolly&theme=radical&hide_border=true" width="400" />
+  </a>
 </p>
