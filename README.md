@@ -59,8 +59,5 @@
   </a>
 </p>
 
-### ⏳ Wakatime Stats (Coding Activity)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youngmolly/Youngmolly/main/images/wakatime.svg" width="90%" />
-</p>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
