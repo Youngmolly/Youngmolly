@@ -1,132 +1,15 @@
-# Metric: Core
-template:
-  name: "full profile"
-  title: "GitHub Metrics"
-  repositories: 100  # limit repos to fetch
-
-# ========== PLUGINS YANG PALING KEREN ==========
-
-# 1. Base info (wajib)
-plugin_"base":
-  repositories: yes
-  followed_users: yes
-  activity: yes
-  avatar: yes
-
-# 2. Languages (dengan breakdown detail)
-plugin_"languages":
-  repositories: 40
-  sections:
-    - "stats"       # total code size by language
-    - "most-used"   # languages used in all repos
-  analysis_days: 366
-  analysis_hours: 8
-  analysis_meta: yes
-  analysis_limit: 8
-  use_repository_language_icons: yes
-  recently_used: yes
-  recently_used_days: 14
-
-# 3. Achievements (medali & lencana keren)
-plugin_"achievements":
-  threshold: B   # C,B,A,S (S paling tinggi)
-  limit: 8
-  icons: square
-  display: detailed
-  commits_authorization: yes
-
-# 4. Activity (aktivitas terbaru)
-plugin_"activity":
-  limit: 7
-  days: 14
-  load: 300
-  visibility: public
-  timestamp: relative
-  template: "classic"
-  repositories: no
-  ignore_commits: automated
-  sorted: yes
-  events:
-    - "push"
-    - "pull_request"
-    - "issue"
-    - "release"
-    - "fork"
-    - "create"
-
-# 5. Notable contributions (kontribusi terkenal)
-plugin_"notable":
-  limit: 6
-  types: commit, pull_request, issue
-  contributors: yes
-  filtered: yes
-
-# 6. Contributions (grafik kontribusi)
-plugin_"contributors":
-  limit: 28
-  weeks: 52  # setahun penuh
-  timeline: yes
-
-# 7. Stars (bintang yang diberikan)
-plugin_"stars":
-  limit: 5
-  days: 365
-  repositories: yes
-  config_display: "stars-given"
-
-# 8. Followup (issue & PR yang dikerjakan)
-plugin_"followup":
-  sections: repositories, user
-  repositories_created: yes
-  repositories_starred: yes
-  pullrequests: yes
-  issues: yes
-  discussions: yes
-
-# 9. Sponsors (jika ada sponsor)
-plugin_"sponsors":
-  mode: "user"
-  repositories: yes
-  skeleton_days: 30
-
-# 10. Lines of code (LOC - baris kode)
-plugin_"lines":
-  repositories_limit: 40
-  history_limit: 12
-  sections: added, deleted, created
-  exclude_days: 14
-
-# 11. Traffic (views & clones repo - khusus yang lo own)
-plugin_"traffic":
-  repositories: 10
-  limit: 14
-  days: 30
-  skeleton_hours: 48
-
-# 12. Latest posts (dari DEV.to atau blog)
-plugin_"posts":
-  source: dev.to   # atau "medium", "rss"
-  limit: 4
-  description: yes
-  topics: yes
-
-# ========== PENYESUAIAN TAMBAHAN ==========
-# Waktu & timezone
-provider:
-  timezone: Asia/Jakarta
-  top_size: 10
-  default:
-    yes
-  repository:
-    id: "[username]/[username]"
-    name: "[username]"
-
-# Tampilan
-commit:
-  metadata: yes
-  authors: yes
-  
-output:
-  format: svg
-  width: 1100
-  media_width: 960
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]  # setiap hari jam 00:00
+  workflow_dispatch:  # bisa di-run manual
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config: .github/metrics.yml
