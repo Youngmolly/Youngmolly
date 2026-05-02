@@ -41,3 +41,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Youngmolly&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+### 🎵 Now Playing (Spotify)
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=youngmolly&width=500" alt="Spotify recently played" />
+</p>
