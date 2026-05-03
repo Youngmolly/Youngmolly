@@ -34,7 +34,9 @@
 
 ### 📈 Aktivitas 
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youngmolly&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=FFFFFF&line=FF4500" width="95%" />
+</p>
 
 ---
 
