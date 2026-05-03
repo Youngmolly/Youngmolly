@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        ![Views](https://visitor-badge.laubx.com/badge?page_id=username.repo&left_text=Views)
+        ![Views](https://komarev.com/ghpvc/?username=Youngmolly&label=Views&color=grey)
     </p>
 </div>
 
