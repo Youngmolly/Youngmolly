@@ -1,3 +1,10 @@
+<div align="center">
+    <p>
+        ![Views](https://img.shields.io/endpoint?url=https://countapi.xyz/shields/username_views_total?color=grey)
+    </p>
+</div>
+
+
 ### 📊 Stats
 
 <p align="center">
