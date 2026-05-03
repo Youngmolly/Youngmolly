@@ -1,7 +1,5 @@
 <div align="center">
-    <p>
-        ![Views](https://komarev.com/ghpvc/?username=Youngmolly&label=Views&color=grey)
-    </p>
+    <img width="625em" src="./github-metrics.svg" />
 </div>
 
 ---
