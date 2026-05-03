@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        ![Views](https://img.shields.io/endpoint?url=https://countapi.xyz/shield/Youngmolly/views?label=Views)
+        ![Views](https://visitor-badge.laubx.com/badge?page_id=username.repo&left_text=Views)
     </p>
 </div>
 
