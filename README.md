@@ -2,16 +2,6 @@
     <img width="625em" src="./github-metrics.svg" />
 </div>
 
-name: Comment reactions
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.reactions.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_reactions: yes
-  plugin_reactions_limit: 100
-  plugin_reactions_details: percentage
-
 ---
 
 ### 🖥️ Knowledge
