@@ -82,3 +82,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Youngmolly/Youngmolly/main/images/wakatime.svg" width="90%" />
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark)
