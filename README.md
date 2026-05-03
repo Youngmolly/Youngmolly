@@ -21,12 +21,12 @@
 ### 📊 Stats
 
 <p align="center">
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youngmolly&theme=radical" />
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youngmolly&theme=radical" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youngmolly&theme=radical" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youngmolly&theme=radical" />
 </p>
 <p align="center">
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youngmolly&theme=radical" />
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youngmolly&theme=radical" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youngmolly&theme=radical" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youngmolly&theme=radical" />
 </p>
 
 ---
