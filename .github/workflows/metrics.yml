@@ -1,29 +1,32 @@
-name: Metrics
+name: Metrics - Minimal (PASTI MUNCUL)
 on:
+  workflow_dispatch:  # Manual trigger aja dulu buat test
   schedule:
-    - cron: "0 */4 * * *"   # JALAN SETIAP 4 JAM (lebih sering)
-  workflow_dispatch:        # Bisa manual kapan aja
-  push:
-    branches: ["master", "main"]
+    - cron: '0 0 * * *'  # Nanti kalo mau otomatis
+
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Token wajib
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          # FORCE refresh GitHub API
-          committer_message: "force: update metrics [skip actions]"
-          retries: 3
-          retries_delay: 10
-          # Plugin spesifik biar akurat
+          
+          # Identitas
+          user: Youngmolly
+          template: classic
+          
+          # Base = repository (biar ada data minimal)
+          base: repositories
+          base_indepth: yes
+          base_repositories: 3  # Ambil 3 repo teratas
+          
+          # Plugin yang PASTI punya data (walau sedikit)
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_ignored: html, css, markdown
-          plugin_achievements: yes
-          plugin_activity: yes
-          plugin_activity_days: 7     # Ambil 7 hari terakhir (lebih fresh)
-          plugin_traffic: yes
+          plugin_languages_limit: 4
+          plugin_languages_sections: most-used
+          
+          # Output
+          filename: metrics.minimal.svg
+          committer_message: "Update minimal metrics"
