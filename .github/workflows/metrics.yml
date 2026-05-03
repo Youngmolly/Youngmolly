@@ -1,29 +1,37 @@
-name: Metrics
+name: Metrics - Lengkap & Akurat
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */4 * * *"   # JALAN SETIAP 4 JAM (lebih sering)
-  workflow_dispatch:        # Bisa manual kapan aja
-  push:
-    branches: ["master", "main"]
+    - cron: '0 0 * * *'
+
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          # FORCE refresh GitHub API
-          committer_message: "force: update metrics [skip actions]"
-          retries: 3
-          retries_delay: 10
-          # Plugin spesifik biar akurat
+          user: Youngmolly
+          template: classic
+          
+          # 🔥 INI KUNCINYA: Ambil data repo & aktivitas
+          base: repositories, activity, metadata
+          base_indepth: yes
+          base_repositories: 10
+          
+          # Tampilkan bahasa pemrograman
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_ignored: html, css, markdown
-          plugin_achievements: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          
+          # Tampilkan aktivitas terbaru
           plugin_activity: yes
-          plugin_activity_days: 7     # Ambil 7 hari terakhir (lebih fresh)
-          plugin_traffic: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          
+          # Jangan dulu pakai plugin yang butuh interaksi orang lain
+          # plugin_reactions: no
+          # plugin_achievements: no
+          
+          filename: metrics.lengkap.svg
+          committer_message: "Update lengkap metrics"
