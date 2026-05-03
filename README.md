@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,git,html,css,githubactions&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,git,html,css, githubactions&theme=dark&perline=6" />
 </p>
 
 ### 🚀 Latest YouTube Videos 
