@@ -2,10 +2,6 @@
     <img width="625em" src="./github-metrics.svg" />
 </div>
 
-![GitHub Stats Advanced](https://stats.hyo.dev/api/github-stats-advanced?login=Youngmolly)
-
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
-
 ---
 
 ### 🖥️ Knowledge
