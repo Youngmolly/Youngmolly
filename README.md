@@ -4,6 +4,17 @@
     </p>
 </div>
 
+<div>
+<h2 align="center"> 📖 Knowledge 📖 </h2>
+</div>
+<div align = "center">
+<p align = "center">
+     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
+    </a>
+</p>
+</div>
+<br>
 
 ### 📊 Stats
 
@@ -51,17 +62,6 @@
 
 ---
 
-<div>
-<h2 align="center"> 📖 Knowledge 📖 </h2>
-</div>
-<div align = "center">
-<p align = "center">
-     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
-    </a>
-</p>
-</div>
-<br>
 
 ### 🚀 Latest YouTube Videos 
 
