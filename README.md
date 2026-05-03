@@ -4,7 +4,8 @@
     </p>
 </div>
 
-<h2 align="center"> 📖 Knowledge 📖 </h2>
+### Knowledge
+
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
