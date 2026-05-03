@@ -2,7 +2,9 @@
     <img width="625em" src="./github-metrics.svg" />
 </div>
 
-#FF5500
+![GitHub Stats Advanced](https://stats.hyo.dev/api/github-stats-advanced?login=Youngmolly)
+
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
 
 ---
 
