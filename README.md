@@ -1,4 +1,4 @@
-### 📊 Full Stats
+### 📊 Stats
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youngmolly&theme=radical" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 📈 Aktivitas Terbaru (Real-Time)
+### 📈 Aktivitas 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youngmolly&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=FFFFFF&line=FF4500" width="95%" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🎯 Kontribusi Detail (Paling Akurat)
+### 🎯 Kontribusi 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Youngmolly&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=FF4500&ring=00FF00&fire=FF4500&currStreakNum=00FFFF&sideNums=FFFFFF" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 🏆 GitHub Trophies (Data Asli dari API)
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Youngmolly&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&no-bg=true" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 👁️ Visitor Counter (Akurat & Pasti Update)
+### 👁️ Visitor Counter
 
 
 <p align="center">
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,git,html,css,githubactions&theme=dark&perline=6" />
 </p>
 
-### 🚀 Latest YouTube Videos (Jika Punya Channel)
+### 🚀 Latest YouTube Videos 
 
 <p align="center">
   <a href="https://youtube.com/@YoungMolly">
