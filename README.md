@@ -1,4 +1,4 @@
-### 📊 Full Stats (Akurat & Real-Time)
+### 📊 Full Stats
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youngmolly&theme=radical" />
