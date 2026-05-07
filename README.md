@@ -9,7 +9,7 @@
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,windows,mysql,vscode,git,github,js,android&perline=6" alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,windows,mysql,vscode,git,github,js,python&perline=6" alt="My Skills"/> 
     </a>
 </p>
 </div>
