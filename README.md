@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="625em" src="./github-metrics.svg" />
+    <img width="600em" src="./github-metrics.svg" />
 </div>
 
 ---
@@ -8,8 +8,8 @@
 
 <div align = "center">
 <p align = "center">
-     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,windows,mysql,vscode,git,github,js,android&perline=6" alt="My Skills"/> 
+     <a href="https://skillicons.dev/icons?i=">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,windows,mysql,vscode,git,github,js,python,php,sqlite,typescript&perline=6" alt="My Skills"/> 
     </a>
 </p>
 </div>
@@ -75,8 +75,6 @@
   </a>
 </p>
 
-### ⏳ Wakatime Stats
+## ⏰ WakaTime Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youngmolly/Youngmolly/main/images/wakatime.svg" width="90%" />
-</p>
+![WakaTime](metrics.wakatime.svg)
