@@ -1,8 +1,11 @@
 name: Metrics - Achievements
 on:
   schedule:
-    - cron: '0 0 * * *'  # Jalan setiap hari jam 00:00 UTC
+    - cron: '5 0 * * *'  # 00:05 UTC, digeser 5 menit biar tidak bentrok sama metrics.yml
   workflow_dispatch:      # Bisa dijalankan manual
+
+permissions:
+  contents: write   # wajib, kalau tidak commit balik ke repo akan gagal (403)
 
 jobs:
   metrics:
@@ -11,6 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}   # penting: tanpa ini, commit dibuat oleh github-actions[bot], bukan akun kamu
           user: Youngmolly
           template: classic
           base: ""  # Kosong biar cuma achievements yang tampil
