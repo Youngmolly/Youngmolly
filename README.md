@@ -63,20 +63,6 @@
 
 ---
 
-
-### 🚀 Latest YouTube Videos 
-
-<p align="center">
-  <a href="https://youtube.com/@YoungMolly">
-    <img src="https://ytcards.demolab.com/?id=ZjODWsHFo5Y&&title=xxx&lang=en&timestamp=April+2026&background_color=%230d1117&title_color=%23FF4500&stats_color=%23FF4500&max_width=400" width="45%" />
-  </a>
-  <a href="https://youtube.com/@YoungMolly">
-    <img src="https://ytcards.demolab.com/?id=vZgF2LunkGU&&title=Another+Video&lang=en&timestamp=March+2026&background_color=%230d1117&title_color=%23FF4500&stats_color=%23FF4500&max_width=400" width="45%" />
-  </a>
-</p>
-
----
-
 ## Adv-Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/17d6b4e0adb015321771f5e5074dc2b8c75e6c1f.svg "Repobeats analytics image")
