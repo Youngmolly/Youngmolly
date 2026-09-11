@@ -66,7 +66,3 @@
 ## Adv-Stats
 
 ![Alt](https://repobeats.axiom.co/api/embed/17d6b4e0adb015321771f5e5074dc2b8c75e6c1f.svg "Repobeats analytics image")
-
-## ⏰ WakaTime Stats
-
-![WakaTime](metrics.wakatime.svg)
